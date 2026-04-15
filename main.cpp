@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-	int n1, n2;
-	int N, sum;
+	int N;
+	int n1, n2, sum;
 
 	cout << "Enter two numbers: ";
 	cin >> n1 >> n2;
